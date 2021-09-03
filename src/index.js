@@ -1,12 +1,14 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './App.jsx';
 import reportWebVitals from './reportWebVitals';
-
+import Hi from "./trueFalse"
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Hi isOpen={"on"} />
+    
+    {/* <Hi isOpen={true} /> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
