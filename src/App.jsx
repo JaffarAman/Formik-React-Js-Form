@@ -1,33 +1,32 @@
 import React from "react"
 import './App.css';
-import MyPIC from "./img/87818686_980997402297697_1315258795810619392_n.jpg"
-import PostPic from "./img/pexels-photo-1149831.jpeg"
+
 // import { AiOutlineLike } from 'react-icons/fa';  
 import { AiOutlineLike , BiCommentDots,BiShare ,BiSmile , GrGallery } from "react-icons/all";
 
-function App() {
+function App({postImgUrl , imgUrl , name , caption}) {
   return (
       <div className="box">
         <div className="mainBox">
 
           <div className="topHead">
-              <img src={MyPIC} className="myPro" alt="" />
+              <img src={imgUrl} className="myPro" alt="profilePic" />
               <div className="proName">
-                  <small><strong>Jaffar Aman</strong> </small> <p></p>
+                  <small><strong>{name}</strong> </small> <p></p>
                   <small>9/2/2021</small>
               </div>
           </div>
             {/* ///caption section/// */}
           <div className="captionBox">
 
-            <p>HELLO WORLD </p>
-            <p>HOW ARE YOU?</p>
+            <p>{caption }</p>
+            {/* <p>HOW ARE YOU?</p> */}
 
             </div>
 
             {/* ///img//   */}
             <div className="imageDiv">
-              <img src={PostPic} className="postPic" alt="" />
+              <img src={postImgUrl} className="postPic" alt="" />
             </div>
 
               <div className="boost">
@@ -44,7 +43,7 @@ function App() {
             </section>
             <section className="commentInput">
 
-              <input type="text" />
+              <input type="text" placeholder="Enter your Comments..." />
         <div className="inputIcon">
             <span>
             <BiSmile />

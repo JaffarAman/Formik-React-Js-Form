@@ -9,9 +9,11 @@
   align-items: center;
 }
 .mainBox{
-  border: 1px solid lightgray;
-  width: 40%;
+  border: 1px solid lightgrey;
+  box-shadow: 2px 2px 5px lightgray;
+  width: 35%;
   padding: 8px;
+  margin: 20px 0;
 }
 
 .topHead{
@@ -48,6 +50,9 @@
 }
 .boost small{
   color: royalblue;
+}
+.boost small:hover{
+  text-decoration: underline;
 }
 .boost button{
   padding: 5px;
