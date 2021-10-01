@@ -13,8 +13,8 @@ const App = () => {
           <LoginForm />
 
       </div>
-      <div className="col-md-5 my-auto">
-        <img src={LoginPic} className="img-fluid" alt="" />
+      <div className="col-md-5  my-auto">
+        <img src={LoginPic} className="img-fluid mt-3 mb-3" alt="" />
       </div>
       <div></div>
 
