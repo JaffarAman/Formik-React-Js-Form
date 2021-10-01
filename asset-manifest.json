@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/js/main.879fd61e.chunk.js",
+    "main.js.map": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/js/main.879fd61e.chunk.js.map",
+    "runtime-main.js": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/js/runtime-main.1561dbc0.js",
+    "runtime-main.js.map": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/js/runtime-main.1561dbc0.js.map",
+    "static/css/2.27dd871e.chunk.css": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/css/2.27dd871e.chunk.css",
+    "static/js/2.79139720.chunk.js": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/js/2.79139720.chunk.js",
+    "static/js/2.79139720.chunk.js.map": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/js/2.79139720.chunk.js.map",
+    "static/js/3.30b40abc.chunk.js": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/js/3.30b40abc.chunk.js",
+    "static/js/3.30b40abc.chunk.js.map": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/js/3.30b40abc.chunk.js.map",
+    "index.html": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/index.html",
+    "static/css/2.27dd871e.chunk.css.map": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/css/2.27dd871e.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.79139720.chunk.js.LICENSE.txt": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/js/2.79139720.chunk.js.LICENSE.txt",
+    "static/media/login.8cbb0712.svg": "/https://github.com/JaffarAman/Formik-React-Js-Form.git/static/media/login.8cbb0712.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1561dbc0.js",
+    "static/css/2.27dd871e.chunk.css",
+    "static/js/2.79139720.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.879fd61e.chunk.js"
+  ]
+}
